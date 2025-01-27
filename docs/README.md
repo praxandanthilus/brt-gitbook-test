@@ -1,2 +1,5 @@
-# Page
+# Welcome to Chris's demo documentation site
 
+## Getting Started
+
+This is a modest example of a documentation site generated from sync between Gitbook and a Github repository. Individuals can contribute to the site by authoring content either in Gitbook or their code editor of choice depending on their comfort zone. Doc content is governed by the usual version controls developers are accustomed to for any Github workflow. A bidirectional sync insures that content can be updated in both directions.
