@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Blue River Test Docs](README.md)
+* [Batman: A Comics History](README.md)
