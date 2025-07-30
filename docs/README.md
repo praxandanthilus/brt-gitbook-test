@@ -1,4 +1,12 @@
-# Welcome to Luthercorp Labs
+---
+description: Superhero Engineering Paths Unpacked
+---
+
+# Welcome to LutherCorp Labs
+
+There are currently two paths for developing excellent. He met a human specimens to keep the world safe from Superman and his thugs in the Justice League. Please submit any path deviations during the **monthly briefing with Brainiac 5.**
+
+<figure><img src=".gitbook/assets/Luthercorp __Path 1.jpeg" alt="" width="563"><figcaption><p>Superhero Engineering Flow</p></figcaption></figure>
 
 ## 🧬 Path 1: Constructing a Synthetic Metahuman
 

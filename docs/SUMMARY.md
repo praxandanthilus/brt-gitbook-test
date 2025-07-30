@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Welcome to Luthercorp Labs](README.md)
+* [Welcome to LutherCorp Labs](README.md)
+  * [Genetic & Biometric Profiling](readme/genetic-and-biometric-profiling.md)
