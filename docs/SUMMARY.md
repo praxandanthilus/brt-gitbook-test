@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Batman: A Comics History](README.md)
+* [Welcome to Luthercorp Labs](README.md)
