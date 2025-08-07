@@ -6,3 +6,4 @@
 ## The Superman Files <a href="#superman-files" id="superman-files"></a>
 
 * [Profile: Superman](superman-files/profile-superman.md)
+* [Krypto the Superdog: Training Guide](superman-files/krypto_training.md)
