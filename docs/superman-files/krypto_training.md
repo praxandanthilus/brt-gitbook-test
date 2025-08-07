@@ -28,7 +28,7 @@ Start with the basics—yes, even for a Kryptonian canine.
 - `Stay`
 - `Come`
 - `Heel`
-- `Leave it`
+- `Drop it`
 
 ### 🦴 Use Kryptonian-approved treats:
 - Solar-charged beef jerky
