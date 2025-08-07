@@ -1,21 +1,21 @@
-# 🦴 How to Train Krypto, Superman’s Super Dog
+# 🦴 Krypto the Superdog: Training Guide
 
 _Krypto may have powers from Krypton, but even a super dog needs super training._
 
-![Krypto the Superdog Image](assets/krypto_the_superdog_.png)
+<figure><img src="../.gitbook/assets/krypto_the_superdog_.png" alt=""><figcaption></figcaption></figure>
 
 ## 🛡️ Step 1: Understand Krypto’s Powers
 
 Before training begins, familiarize yourself with Krypto’s abilities:
 
-- Super strength
-- Flight
-- Heat vision
-- X-ray vision
-- Super speed
-- Super hearing
-- Near invulnerability
-- Dog-level attention span
+* Super strength
+* Flight
+* Heat vision
+* X-ray vision
+* Super speed
+* Super hearing
+* Near invulnerability
+* Dog-level attention span
 
 > 📝 **Trainer Tip:** Krypto is loyal, but impulsive. Training must combine positive reinforcement with clear boundaries.
 
@@ -24,27 +24,31 @@ Before training begins, familiarize yourself with Krypto’s abilities:
 Start with the basics—yes, even for a Kryptonian canine.
 
 ### ✅ Commands to teach:
-- `Sit`
-- `Stay`
-- `Come`
-- `Heel`
-- `Drop it`
+
+* `Sit`
+* `Stay`
+* `Come`
+* `Heel`
+* `Drop it`
 
 ### 🦴 Use Kryptonian-approved treats:
-- Solar-charged beef jerky
-- Squeaky toy shaped like Brainiac
-- Gold K-bone chew toy
+
+* Solar-charged beef jerky
+* Squeaky toy shaped like Brainiac
+* Gold K-bone chew toy
 
 ### 📢 Reinforce with:
-- Verbal praise (“Good boy, Krypto!”)
-- Affection (scratches behind super ears)
-- Play (zero-gravity fetch in the Fortress of Solitude)
+
+* Verbal praise (“Good boy, Krypto!”)
+* Affection (scratches behind super ears)
+* Play (zero-gravity fetch in the Fortress of Solitude)
 
 ## 🚀 Step 3: Flight Control Training
 
 Uncontrolled flight = accidental sonic booms.
 
 ### 🛠️ Training routine:
+
 1. **Takeoff on command:** Use cue like “Fly.”
 2. **Hover drills:** Practice hovering at increasing heights.
 3. **Landing precision:** Teach soft landings in designated zones.
@@ -56,20 +60,23 @@ Uncontrolled flight = accidental sonic booms.
 Krypto must learn restraint.
 
 ### 🔥 Heat Vision Control:
-- Target practice using dummy robots
-- Use command like “Eyes off!” to disengage
-- Introduce sunglasses for voluntary power suppression
+
+* Target practice using dummy robots
+* Use command like “Eyes off!” to disengage
+* Introduce sunglasses for voluntary power suppression
 
 ### 🔊 Super Bark Management:
-- Use bark-to-speak translator collar
-- Practice whisper barks with decibel meter
+
+* Use bark-to-speak translator collar
+* Practice whisper barks with decibel meter
 
 ## 🧠 Step 5: Distraction Resistance
 
 ### 🧪 Simulated distractions:
-- Fake Lex Luthor drones
-- Cat-shaped Kryptonite decoys
-- Mail carriers (earth-style test)
+
+* Fake Lex Luthor drones
+* Cat-shaped Kryptonite decoys
+* Mail carriers (earth-style test)
 
 > 🎯 Reward when Krypto maintains focus despite chaos.
 
@@ -78,8 +85,9 @@ Krypto must learn restraint.
 Krypto must understand when he’s on-duty.
 
 ### Assign roles:
-- **Patrol mode:** Respond to emergencies only
-- **Play mode:** Free to chase asteroids and butterflies
+
+* **Patrol mode:** Respond to emergencies only
+* **Play mode:** Free to chase asteroids and butterflies
 
 Use suit color changes (e.g. red = patrol, blue = play) as visual cues.
 
@@ -87,23 +95,25 @@ Use suit color changes (e.g. red = patrol, blue = play) as visual cues.
 
 Sync commands with Superman’s voice frequency.
 
-- Practice joint exercises (e.g. tandem rescues)
-- Use Fortress holograms for simulated missions
-- Develop emergency recall word (e.g. “Smallville!”)
+* Practice joint exercises (e.g. tandem rescues)
+* Use Fortress holograms for simulated missions
+* Develop emergency recall word (e.g. “Smallville!”)
 
 ## 💬 Step 8: Communication Upgrades
 
 If Krypto uses a translator collar, expand his vocabulary:
-- “Citizen in distress”
-- “Alien threat detected”
-- “Did you see me do that backflip?”
+
+* “Citizen in distress”
+* “Alien threat detected”
+* “Did you see me do that backflip?”
 
 ## 🏅 Step 9: Certification & Honor
 
 Once training is complete:
-- Present him with the **Super Canine Medal of Valor**
-- Host a ceremony in Metropolis
-- Let him lead the Justice League Pets
+
+* Present him with the **Super Canine Medal of Valor**
+* Host a ceremony in Metropolis
+* Let him lead the Justice League Pets
 
 ## 🐾 Final Notes
 
