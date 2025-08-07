@@ -2,6 +2,8 @@
 
 _Krypto may have powers from Krypton, but even a super dog needs super training._
 
+![Krypto the Superdog Image](assets/krypto_the_superdog_.png)
+
 ## 🛡️ Step 1: Understand Krypto’s Powers
 
 Before training begins, familiarize yourself with Krypto’s abilities:
