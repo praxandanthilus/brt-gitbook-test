@@ -7,3 +7,4 @@
 
 * [Profile: Superman](superman-files/profile-superman.md)
 * [🦴 Krypto the Superdog: Training Guide](superman-files/krypto_training.md)
+* [Profile: Superman](superman-files/profile-green-lantern.md)
